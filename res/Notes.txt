@@ -1,5 +1,13 @@
+Basic list of features for CadeauWines.com
 
+-Login System, 2FA, basic shit
+-Keep track of basic information (including shipping state and age) as well as payment information,
+-Improved layout with catalog and individual pages for wines
+-Google Analytics
+-Some kind of dashboard for manging user accounts
+-Shopping cart
+-A blank page (for payments and orders) that will interface with the winemaker's paayment system. More details on this later. Implement this and the shopping cart last.
 
-TODO
+OTHER TODO
 -Change "home" link in navbar to http://cadeauwines.com
     -keep it as is for testing
